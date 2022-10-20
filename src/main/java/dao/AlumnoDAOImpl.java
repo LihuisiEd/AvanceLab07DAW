@@ -37,6 +37,7 @@ public class AlumnoDAOImpl implements IAlumnosDAO {
                 alumno.setSexo(rs.getString(7));
                 alumno.setFec_nac(rs.getDate(8));
                 alumno.setEstado(rs.getString(9));
+                listaAlumnos.add(alumno);
             }
             stm.close();
             rs.close();

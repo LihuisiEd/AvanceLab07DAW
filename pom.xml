@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.miempresa</groupId>
-    <artifactId>WebSistema</artifactId>
+    <artifactId>AvanceLab07DAW</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>WebSistema</name>
+    <name>AvanceLab07DAW</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
